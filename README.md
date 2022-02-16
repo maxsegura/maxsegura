@@ -10,7 +10,7 @@
 
 ### My Absolute Favorites:
 
--:bouncing_ball_man: &nbsp; I love watching NBA games.
+- 🏀 &nbsp; I love watching NBA games.
 - 📰 &nbsp; I like listening to music.
 - 🍕 &nbsp; I really like to eat pizza.
 
