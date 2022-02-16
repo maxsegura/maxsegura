@@ -8,7 +8,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=ASIX/DAM%20Student%20;Institut%20de%20l'Ebre,%20Tortosa;20%20years%20old&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
+### My Absolute Favorites:
 
+- 💻 &nbsp; I love watching NBA games.
+- 📰 &nbsp; I like listening to music.
+- 🍕 &nbsp; I really like to eat pizza.
 
  
 
