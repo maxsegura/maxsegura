@@ -11,7 +11,7 @@
 ### My Absolute Favorites:
 
 - 🏀 &nbsp; I love watching NBA games.
-- 🔁 &nbsp; I listen music all day.
+- 🔁 &nbsp; I'm listening music all day.
 - 🍕 &nbsp; I really like to eat pizza.
 
  
