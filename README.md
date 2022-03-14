@@ -15,15 +15,14 @@
   
   
   
-### My Absolute Favorites:
+### My Favorites:
 
 - 🏀 &nbsp; I love watching NBA games.
 - 🔁 &nbsp; I'm listening music all day.
 - 🍕 &nbsp; I really like to eat pizza.
-
- 
-[![istockphoto-1144604245-612x612.jpg](https://i.postimg.cc/x8zDhtWx/istockphoto-1144604245-612x612.jpg)](https://postimg.cc/9wCnqtXZ)
-
+<p align="center">
+ <img src="https://i.postimg.cc/x8zDhtWx/istockphoto-1144604245-612x612.jpg">
+</p>
 
 
     
